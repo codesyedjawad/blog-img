@@ -1,0 +1,139 @@
+header>img,
+header>h1,
+h1>span{
+
+font-family: sans-serif;
+    display: inline;
+color: rgb(255, 255, 255);
+    vertical-align: middle;
+    
+}
+header{
+ position: relative;
+ 
+    background: #E48F45 ;
+}
+header>h1{
+margin-left: 50px;
+
+}
+nav{
+background-color: rgb(66, 57, 57);
+
+
+}
+nav h3{
+    color: aliceblue;
+    display: inline;
+    margin-left: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav h3:hover{
+background-color: brown;
+
+}
+
+section img {
+    height: 70px;
+    width: 70px;
+    float: inline-start;
+    border-radius: 65px;
+
+}
+
+
+section{
+    padding:5px;
+    display: block;
+    display: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 2px solid;
+display: inline-block;
+height: 200px;
+width: 200px;
+
+}
+section>p{
+    text-wrap: wrap;
+
+
+}
+section button{
+background-color: teal ;
+color: #fff;
+padding: 10px 15px;
+margin: 15px;
+border-radius: 5px;
+
+}
+
+section button:hover{
+    background-color: black;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.2);
+    cursor: pointer;
+}
+
+#one{
+    margin-top: 5px;
+    margin-left: 19px;
+   display: relative;
+   width: 50%;
+    background-size: cover; 
+
+}
+
+a img {
+    width: 1000px;
+    height: 500px;
+
+}
+
+#loktype1{ 
+    background: linear-gradient(to right,    #fd746c  ,   #ff9068 ) ;
+
+}
+
+#looktype2{
+    background: linear-gradient(to left ,#1F1717 ,  #CE5A67  );
+
+}
+
+#calco{
+    background: linear-gradient(to left,rgb(240, 118, 18),rgb(54, 191, 255)) ;
+    color: #fff;
+    text-align: center;
+    padding: 1px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: x-large ;
+}
+
+#h1{
+    text-align: center;
+    font-size: xx-large;
+    padding-bottom: 100px ;
+    color: linear-gradient(to left,rgb(228, 113, 5),rgb(235, 110, 9)) ;
+
+    
+}
+
+#peoplesparty{
+    padding-top: 100px;
+    text-align: center;
+    
+}
+#peoplesparty>p{
+    font-size: larger;
+}
+
+#bilo{
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 90px;
+    border: solid black;
+}
+#bhutto{
+     background: linear-gradient(to right, red ,gray,green) ;
+}
